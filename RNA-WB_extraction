@@ -1,0 +1,181 @@
+####RNA Extraction
+
+Working SOP for combined RNA extraction method for a whole blood preserved in Paxgene blood tubes
+Last updated 02/04/16 by Lisa Komoroske (and formerly by Lesley Anderson)
+*N.B. Throughout protocol: 
+- tips and tubes used for all steps involving Trizol and chloroform or their components downstream should be put in proper container for toxic waste disposal, kept in hood
+- tips and flow through of ethanol based reagents place in separate waste container in hood so as not to mix with those that need special disposal
+
+-Store paxgenes in -80C after collection until analysis
+
+❏	Take samples out of freezer to come to equilibrium at room temperature. Once at equilibrium, leave out for two hours on benchtop in tube rack (if wasn’t previously). 
+❏	Mark the draw line (if not full draw).
+❏	Take bead bag out of freezer. Place steel beads in a centrifuge tube and put tubes of beads in to freeze. 
+❏	Check that centrifuge is in refrigerator and cooled down (4C).
+❏	While samples are thawing:
+❏	Make a plan in notebook (create a key)
+❏	Label all sample tubes, make any blank tubes as necessary
+❏	Check supplies for reagents, etc. (see list at end of protocol)
+
+❏	After RT incubation period, invert each paxgene thoroughly 20x (can also pipette mix or lightly vortex if necessary) to get pellet suspended/sample homogenized.
+❏	Using P1000, pipette ~1ml into each 1.5ml Omni tube labeled according to sample. 
+	Want 8 replicates total so if full draw, will put last bit into reps roughly evenly across
+❏	Centrifuge samples at 4C for 10 minutes at 3,500rfc (*in MMTD lab centrifuge this is 13.2rpm)
+❏	Carefully pour off supernatant in sink, dry lip with chemwipe (keep pellet)
+❏	Homogenization of the pellet: This step do in hood
+❏	Take beads out of frozen bead bag.
+❏	Quickly and carefully place one bead in each tube (use ethanol tweezers and tilt tube on its side to ‘roll’ it in gently. 
+❏	Using P1000, add 500ul of Trizol to each tube.
+❏	Immediately put onto Omni.
+❏	Use Program 2 (30 sec at 50Hz; 4m/s).
+❏	Check to make sure pellets have homogenized, if not can repeat Program 2 again
+
+❏	Using P1000, transfer sample to clear, flat bottomed tube.
+❏	Using P200, add 200ul/1ml trizol (=100 ul chloroform/500ul trizol) chloroform to each sample one at a time (or 2-4 at a time as needed -one or two in each hand) shaking vigorously for 30-45 sec afterwards. This step do in hood.
+❏	Let stand at room temperature for 3 min. 
+❏	Centrifuge at 13,400  rpm for 15 min at 4C. 13.2 is highest rpm allowed. Take freezer beads back.
+❏	Using P200, carefully pipette off ~200-250ul of aqueous phase into appropriately labeled 1.5ml centrifuge tube. Be careful not to puncture DNA (white thin layer) or protein layer (on bottom), as this will contaminate your sample. 
+❏	Using P1000, add one volume (~200-250ul) of 70% molecular grade ethanol to aqueous phase sample and mix 
+
+COMBINE SAMPLES AT THIS STEP
+❏	Using P1000, pipette 700ul of sample onto pre-labeled RNeasy mini spin column 
+	*N.B. for modified protocol with lower volume, this will be ~550ul, and won’t need a second transfer step
+❏	Centrifuge for 15 sec at 10,000 rpm. 
+❏	Discard flow through and replace spin column back in original tube.
+❏	Repeat with remaining sample if needed.
+❏	Add multiple replicates to the same column (2-3 depending on the number of replicates)
+❏	Using P1000, pipette 700ul of RW1 buffer into each spin column
+❏	Centrifuge for 15 sec.
+❏	Discard flow through and replace spin column back in original tube.
+N.B. buffer RPE and resulting flow through are simple ethanol based washes, so any tips, tubes and flow through from these steps DO NOT go into container for toxic waste-put into marked container to allow evaporation (followed by regular disposal)
+❏	Using P1000, pipette 500ul buffer RPE (wash buffer - yes ethanol, with date) into spin column.
+❏	Invert ~10 times. (to wash residual RNA off walls of column onto membrane)
+❏	Centrifuge for 15 sec.
+❏	Discard flow through and replace spin column back in original tube.
+
+REPEAT
+❏	Using P1000, pipette 500ul buffer RPE (wash buffer) into spin column.
+❏	Invert ~10 times.
+❏	Centrifuge for 15 sec. (or 2 min, see note below)
+❏	Discard flow through and replace spin column back in original tube.
+
+Optional Repeat: do third wash only if having quality issues otherwise do 2 min spin above, then skip to next step below
+❏	Using P1000, pipette 500ul buffer RPE (wash buffer) into spin column.
+❏	Invert ~10 times.
+❏	Centrifuge for 2 min.
+
+❏	Place each spin column in a new 2ml tube and throw away old tube.
+❏	Centrifuge for 1 min to remove any residual EtOH.
+
+❏	Place each spin column in a pre-labeled 1.5 centrifuge tube and throw away old tube.
+❏	Using P200, add 30 ul RNase-free water directly to membrane. 
+❏	Centrifuge for 1 min. Use black centrifuge, place caps on right side.
+
+REPEAT
+❏	Using P200, add 30 ul RNase-free water directly to membrane. 
+❏	Centrifuge for 1 min. Use black centrifuge, place caps on right side.
+
+❏	Throw away pink inside spin column, keep centrifuge tube with sample.
+❏	Put sample in fridge.
+❏	Using P10, aliquot 5 uL into pre-labeled mini tube.
+
+NANODROP
+❏	Open ND1000 program on computer
+❏	Click on Nucleic Acid
+❏	Clean sensor with MiliQ and kimwipe
+❏	Run with 1uL of RNase free water
+❏	Choose sample type RNA
+❏	Run with dilution sample: 1uL of RNase free water
+❏	Click blank
+❏	Flick mix and tap down sample before pipetting
+❏	Run with 1uL of sample
+❏	Click measure
+❏	Record in notebook:
+❏	260/280
+❏	260/230
+❏	ng/uL
+❏	Describe peak
+
+CLEANING PROCEDURE 
+❏	Put samples and QC aliquot in -80o freezer
+❏	Remove unnecessary items from hood
+❏	Wipe down mini centrifuge lid with ethanol, put away
+❏	Wipe down pipettes with ethanol, put away
+❏	Dump waste from flat bottomed tubes into waste disposal, put tubes into toxic waste disposal container
+❏	Carefully move beads into DI water in beaker #1, then-
+❏	Dump any residual waste from omni into waste disposal, put tubes into toxic waste disposal container
+❏	Switch/dump the ethanol tip/tube waste disposal container if appropriate (i.e., all liquid has evaporated)
+❏	Check and wipe down large centrifuge in fridge; LEAVE ON, make sure fridge door secure with cord when closed
+❏	Check all stock solutions and amounts of materials, make any notes for needing to re-stocking, etc.
+❏	Clean beads (below)
+
+CLEANING BEADS
+❏	(First put any clean, dry beads from previous washes back into bag on lab bench if appropriate)
+❏	Remove beads from tubes carefully into beaker with small amount of water (gently roll beads around to ensure evenly rinsed)
+❏	Move beads with forceps one at a time into beaker with 10% bleach 
+❏	Leave beads for 2 min (gently roll beads around to ensure evenly rinsed)
+❏	Move beads with forceps one at a time into beaker with DI water
+❏	Leave beads for 2 min (gently roll beads around to ensure evenly rinsed)
+❏	Move beads with forceps one at a time into beaker with H2O2
+❏	Leave beads for 2 min (gently roll beads around to ensure evenly rinsed)
+❏	Move beads into drying tip lid on chemwipe
+❏	Leave beads overnight to dry in hood
+
+LABELS (first 4 should just have # on lid):
+1.	1.5 mL Omni tube
+2.	2 mL flat bottomed centrifuge tube
+3.	1.5 mL centrifuge tube
+4.	RNeasy spin column tube
+5.	1.5 mL centrifuge tube (x3 - see below)
+6.	.6mL mini tube (aliquot tube with ID#, extraction date, replicate #s)
+
+-Final labeled aliquot tubes if possible (should have 3 per sample):
+●	sample ID # (top and side)
+●	location (top and side)
+●	“RNA” (on side)
+●	extraction date (on side)
+●	species (on side)
+●	collection date (on side)
+●	Replicate #
+
+Materials Checklist
+
+Benchtop
+❏	Fridge 
+❏	Omni Bead Ruptor
+❏	Kimwipes
+❏	Sharpie
+❏	Large tube rack (for sample)
+❏	Small tube rack (for centrifuge tubes)
+❏	Pipette (P1000, P200, P10)
+❏	Pipette tips (P1000, P200, P10)
+❏	Steel beads
+❏	Freezer bead bag
+❏	Timer
+❏	Small centrifuges (black lid)
+❏	Large centrifuge 
+❏	Centrifuge tubes
+❏	Flat bottom tubes
+❏	Omni tubes
+❏	Spin columns
+❏	Spin column tubes
+❏	Mini centrifuge tube (for aliquot)
+❏	Collection Tubes
+
+Hood set up
+❏	Trizol/Chloroform pipette tip waste container (for eventual proper waste disposal)
+❏	Ethanol-based waster container (for evaporation and eventual normal trash disposal)
+❏	Ethanol cleaned tweezers
+❏	Small beaker for aliquots
+❏	10% bleach beaker
+❏	H2O2 beaker
+❏	DI water beakers (2)
+❏	Final bead drying container
+
+Pre-made Aliquots (need to check have enough of all these before starting)
+❏	70% ethanol
+❏	Chloroform
+❏	Trizol
+❏	RW1 buffer
+❏	RPE wash buffer
+❏	RNase-free water
